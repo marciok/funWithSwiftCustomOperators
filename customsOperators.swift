@@ -48,9 +48,9 @@ operator postfix ⌄ {}
     return list
 }
 
-@infix func ❤︎(loveBird: String, sweetHeard: String) -> String {
+@infix func ❤︎(loveBird: String, sweetHeart: String) -> String {
     
-    return "\(loveBird) and \(sweetHeard) walking the park holding hands"
+    return "\(loveBird) and \(sweetHeart) walking the park holding hands"
 }
 
 @postfix func ⌃(stringToUp: String) -> String {
