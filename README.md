@@ -1,4 +1,4 @@
-# Fun with customs operators in Swift ♂ ♀ ♻ ❤ ⌃ ⌄
+# Fun with custom operators in Swift ♂ ♀ ♻ ❤ ⌃ ⌄
 
 ## Fork and add an operator - 😃👍★␀℉
 
